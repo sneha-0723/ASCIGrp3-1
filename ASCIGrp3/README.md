@@ -1,5 +1,5 @@
 <h1>PASSWORD GENERATOR/NOTES GENERATOR</h1>
-<p>The following application is primarily used for taking down notes as and when required.But in order to ensure personalization of notes created,the following application is also equipped with a authentication feature provided by the password generator.
+<p>The following application is primarily used for taking down notes as and when required.But in order to ensure personalization of the notes,the following application is also equipped with a authentication feature provided by the password generator.
   
  </p> 
 
@@ -31,10 +31,50 @@ For generating a secure and safe password we need to use a mixture of:<br><b>1) 
   
   Otherwise,if the credentials entered are incorrect,the application will drop a messsage as shown below:<br>
   
+  <p align="center"><img width="240" height="370" alt="2021-08-11 (9)" src="https://user-images.githubusercontent.com/82633814/129001445-bb514f7f-13cc-4517-a414-9b6bce9791b5.png"></p>
+
+  
   
   
   
   </p>
+  
+  <h3>STEP-4: FORGOT PASSWORD </h3>
+  <p>As the name speaks for itself,if you are not able to recall the password or user-id set for accessing the notes,this option will allow you to set a new password which can be used thereafter for accessing the notes.</p>
+  
+  <p align="center">
+  <img width="240" height="370" alt="2021-08-11 (12)" src="https://user-images.githubusercontent.com/82633814/129002497-3ba2a0ca-e642-4b54-ac6f-ead7d32d12a8.png">
+</p>
+
+
+  <p>As you can observe ,the login button has now been deactivated and the sign-up button has been activated.</p>
+  <h4><b>THE NOTES THAT WERE SAVED BEFORE SETTING A NEW PASSWORD WILL STILL BE RETAINED IN THIS CASE </b></p> 
+  <p align="center"  ><img width="240" height="370" alt="2021-08-11 (13)" src="https://user-images.githubusercontent.com/82633814/129004615-8f08012d-0bef-4367-a7b4-bdc012abb303.png"></p>
+  
+  <h3>STEP 5: RESETTING THE APPLICATION</h5>
+  <p>If you wish to sign up into this application afresh,click on the reset button
+  <p align="center"><img width="230" height="370" alt="2021-08-11 (14)" src="https://user-images.githubusercontent.com/82633814/129005363-1e647a88-f61a-4496-a6ae-a778ccd227a2.png">
+</p>
+
+
+
+
+
+
+</p>
+<p align="center">
+ <img width="215" style="pad" alt="2021-08-10 (2)" src="https://user-images.githubusercontent.com/82633814/128963709-e0704aa0-23fc-40ff-8b89-627aaa536d3b.png" border="2">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="222" alt="2021-08-11 (2)" src="https://user-images.githubusercontent.com/82633814/128964151-37018675-c084-44fd-bdd0-414349f4a16a.png">
+
+  
+  </p>
+<h4><b>ON CLICKING THIS BUTTON,THE APPLICATION WILL GO BACK TO SQUARE ONE .ALL THE NOTES AND CREDENTIALS CREATED EARLIER WILL BE DELETED AND THE USER CAN SIGN UP ALL OVER AGAIN</b></h4>  
+
+  
+  
+
+  
+  
   
 
 
