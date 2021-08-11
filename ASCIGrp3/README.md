@@ -73,6 +73,14 @@ For generating a secure and safe password we need to use a mixture of:<br><b>1) 
 
 <H2>TECHNOLOGIES USED</H2>
 <P>1)HTML<BR> 2)CSS<BR>3)JAVASCRIPT<BR>4)BOOTSTRAP</P>
+  
+<h2>REFERENCES</h2>
+ <p>1)1)	https://www.geeksforgeeks.org/how-to-create-notes-taking-site-using-html-bootstrap-and-javascript/  <br>
+      2)	https://getbootstrap.com/ <br>
+      3) https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_password_val
+</p>
+
+  
 
   
   
