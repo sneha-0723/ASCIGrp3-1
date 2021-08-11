@@ -13,7 +13,7 @@
   
 <h1>PASSWORD GENERATOR</h1>
 <h3>STEP 1: SETTING THE RIGHT PASSWORD</h3>
-<p><mark>It is important to set a password that cannot be easily cracked.Such passwords are referred to as Strong Passwords.The following are the chareacteristics of a strong password</mark><br>
+<p><mark>It is important to set a password that cannot be easily cracked.Such passwords are referred to as Strong Passwords.The following are the characteristics of a strong password</mark><br>
 For generating a secure and safe password we need to use a mixture of:<br><b>1) smallcase letters</b><br><b>2) capitalcase letters</b><br><b>3) numbers</b><br><b>4) special symbols</b><br><b>5) The password should be approximately 8 characters long</b></p>
 <p align="center">
 <img width="240" height="370" alt="2021-08-11 (3)" src="https://user-images.githubusercontent.com/82633814/128970964-12888477-d39d-4c84-ad08-f68d4df65668.png">&nbsp;&nbsp;&nbsp;
