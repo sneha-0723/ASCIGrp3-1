@@ -71,6 +71,31 @@ For generating a secure and safe password we need to use a mixture of:<br><b>1) 
 <h4><b>ON CLICKING THIS BUTTON,THE APPLICATION WILL GO BACK TO SQUARE ONE .ALL THE NOTES AND CREDENTIALS CREATED EARLIER WILL BE DELETED AND THE USER CAN SIGN UP ALL OVER AGAIN</b></h4>  
 
 
+<h1>NOTE GENERATOR</h1>
+<p><mark>It is useful to make notes. Multiple activities like adding, deleting and searching can be done here.</mark><br>
+<p align="center">
+<img width="240" height="370" alt="2021-08-11 (2)" src="https://user-images.githubusercontent.com/82633814/128964151-37018675-c084-44fd-bdd0-414349f4a16a.png">
+  
+</p>  
+
+<h3>STEP-1: ADDING A NOTE</h3>
+<p>Adding a note is simplying done by clicking on one button. The user can type the note in the textarea and click on "Add Note". This creates a card with the note input by the user along with a delete button.</p>
+<p align="center"><img align="center" width="240" height="370" alt="2021-08-11 (15)" src="https://user-images.githubusercontent.com/82633814/129004615-8f08012d-0bef-4367-a7b4-bdc012abb303.png"></p>
+
+<h3>STEP-2: DELETING A NOTE</h3>
+<p>Deleting a note has been made very easy with the help of this application.If the note is no longer required then the user can click on the "Delete" option.The note will disappear</p>
+
+<p align="center">
+ <img width="215" style="pad" alt="2021-08-10 (16)" src="https://user-images.githubusercontent.com/87231724/129035585-56ea7e6c-2b54-47a6-89fc-f36317c6b583.PNG" border="2">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="215" alt="2021-08-11 (17)" src="https://user-images.githubusercontent.com/87231724/129035661-5ee784f3-2343-44e2-9906-011bb40e9947.PNG">
+</p>
+
+<h3>STEP-3: SEARCHING FOR A NOTE</h3>
+<p>The user can search for the note with the help of the search bar. It is present on the navigation bar. Once the note is searched, all the other notes do not appear and all the user can see is that specific note which was searched by him/her.</p>
+<p align="center"><img align="center" width="240" height="370" alt="2021-08-11 (18)" src="https://user-images.githubusercontent.com/87231724/129036158-f1b8da19-5ce4-43a3-86ca-740e94aaa3cc.PNG"></p>
+
+
+
 <H2>TECHNOLOGIES USED</H2>
 <P>1)HTML<BR> 2)CSS<BR>3)JAVASCRIPT<BR>4)BOOTSTRAP</P>
   
@@ -79,6 +104,9 @@ For generating a secure and safe password we need to use a mixture of:<br><b>1) 
       2)	https://getbootstrap.com/ <br>
       3) https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_password_val
 </p>
+  
+<h2>AUTHOR</h2>
+<p>1) Mihika Sanghvi <br> 2)Sneha Venkateswaran
 
   
 
