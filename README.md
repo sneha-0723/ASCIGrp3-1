@@ -4,7 +4,7 @@ The following application is primarily used for taking down notes as and when re
 
 The password generator helps you to generate a safe and secure password for accessing your notes.When you set a password,the application will first analyze the password. If the password conforms to the pre-set conditions,the app will save it successfully. After that the password can be used for accessing the notes generator
  <p align="center">
- <img width="215" style="pad" alt="2021-08-10 (2)" src="https://user-images.githubusercontent.com/82633814/128963709-e0704aa0-23fc-40ff-8b89-627aaa536d3b.png" border="2">&nbsp;&nbsp;&nbsp;&nbsp;
+ <img width="215" style="pad" alt="2021-08-10 (2)" src="https://user-images.githubusercontent.com/82633814/128963709-e0704aa0-23fc-40ff-8b89-627aaa536d3b.png" border="2">
   <img width="222" alt="2021-08-11 (2)" src="https://user-images.githubusercontent.com/82633814/128964151-37018675-c084-44fd-bdd0-414349f4a16a.png">
 
   
@@ -26,7 +26,7 @@ For generating a secure and safe password we need to use a mixture of:
 4) **special symbols**
 5) **The password should be approximately 8 characters long**
 <p align="center">
-<img width="240" height="370" alt="2021-08-11 (3)" src="https://user-images.githubusercontent.com/82633814/128970964-12888477-d39d-4c84-ad08-f68d4df65668.png">&nbsp;&nbsp;&nbsp;
+<img width="240" height="370" alt="2021-08-11 (3)" src="https://user-images.githubusercontent.com/82633814/128970964-12888477-d39d-4c84-ad08-f68d4df65668.png">
 <img width="240" height="370" alt="2021-08-11 (4)" src="https://user-images.githubusercontent.com/82633814/128974327-1118d72b-b2b6-4366-b7d5-5c8dcdd7b451.png">
   
 </p> 
@@ -75,7 +75,7 @@ Initiallly the sign-up button was active for the user to set a strong password.N
 
 
 <p align="center">
- <img width="215" style="pad" alt="2021-08-10 (2)" src="https://user-images.githubusercontent.com/82633814/128963709-e0704aa0-23fc-40ff-8b89-627aaa536d3b.png" border="2">&nbsp;&nbsp;&nbsp;&nbsp;
+ <img width="215" style="pad" alt="2021-08-10 (2)" src="https://user-images.githubusercontent.com/82633814/128963709-e0704aa0-23fc-40ff-8b89-627aaa536d3b.png" border="2">
   <img width="222" alt="2021-08-11 (2)" src="https://user-images.githubusercontent.com/82633814/128964151-37018675-c084-44fd-bdd0-414349f4a16a.png">
 </p>
 
@@ -103,7 +103,7 @@ Adding a note is simplying done by clicking on one button. The user can type the
 Deleting a note has been made very easy with the help of this application.If the note is no longer required then the user can click on the "Delete" option.The note will disappear
 
 <p align="center">
- <img width="215" style="pad" alt="2021-08-10 (16)" src="https://user-images.githubusercontent.com/87231724/129035585-56ea7e6c-2b54-47a6-89fc-f36317c6b583.PNG" border="2">&nbsp;&nbsp;&nbsp;&nbsp;
+ <img width="215" style="pad" alt="2021-08-10 (16)" src="https://user-images.githubusercontent.com/87231724/129035585-56ea7e6c-2b54-47a6-89fc-f36317c6b583.PNG" border="2">
   <img width="215" alt="2021-08-11 (17)" src="https://user-images.githubusercontent.com/87231724/129035661-5ee784f3-2343-44e2-9906-011bb40e9947.PNG">
 </p>
 
