@@ -88,7 +88,7 @@ Initiallly the sign-up button was active for the user to set a strong password.N
 It is useful to make notes. Multiple activities like adding, deleting and searching can be done here.
 
 <p align="center">
-<img width="240" height="370" alt="2021-08-11 (2)" src="https://user-images.githubusercontent.com/82633814/128964151-37018675-c084-44fd-bdd0-414349f4a16a.png">
+<img width="240" height="350" alt="2021-08-11 (2)" src="https://user-images.githubusercontent.com/82633814/128964151-37018675-c084-44fd-bdd0-414349f4a16a.png">
   
 </p>  
 
