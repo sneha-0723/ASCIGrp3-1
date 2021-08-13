@@ -26,10 +26,10 @@ For generating a secure and safe password we need to use a mixture of:
 4) **special symbols**
 5) **The password should be approximately 8 characters long**
 <p align="center">
-<img width="240" height="370" alt="2021-08-11 (3)" src="https://user-images.githubusercontent.com/82633814/128970964-12888477-d39d-4c84-ad08-f68d4df65668.png">
-<img width="240" height="370" alt="2021-08-11 (4)" src="https://user-images.githubusercontent.com/82633814/128974327-1118d72b-b2b6-4366-b7d5-5c8dcdd7b451.png">
+      <img width="240" height="370" alt="2021-08-11 (3)" src="https://user-images.githubusercontent.com/82633814/128970964-12888477-d39d-4c84-ad08-f68d4df65668.png">
+      <img width="240" height="370" alt="2021-08-11 (4)" src="https://user-images.githubusercontent.com/82633814/128974327-1118d72b-b2b6-4366-b7d5-5c8dcdd7b451.png">
+</p>  
   
-</p> 
 
 ### STEP-2: SAVING THE CREDENTIALS IN LOCAL STORAGE
 
