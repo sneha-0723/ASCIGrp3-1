@@ -135,4 +135,4 @@ The user can search for the note with the help of the search bar. It is present 
 ## AUTHOR
 
 1) Mihika Sanghvi 
-2) Sneha Venkateswaran.
+2)https://github.com/sneha-0723
