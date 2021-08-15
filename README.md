@@ -127,16 +127,13 @@ The user can search for the note with the help of the search bar. It is present 
   
 ## REFERENCES
 
-      1)https://www.geeksforgeeks.org/how-to-create-notes-taking-site-using-html-bootstrap-and-javascript/  
-      2)https://getbootstrap.com/ 
-      3)https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_password_val
+1) https://www.geeksforgeeks.org/how-to-create-notes-taking-site-using-html-bootstrap-and-javascript/  
+2) https://getbootstrap.com/ 
+3) https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_password_val
 
   
 ## AUTHORS
 
-1) Mihika Sanghvi 
-2) Sneha Venkateswaran
+1) Mihika Sanghvi --https://github.com/mihikasanghvi
+2) Sneha Venkateswaran -- https://github.com/sneha-0723
 
-## GITHUB PROFILE
-1)  https://github.com/mihikasanghvi
-2)  https://github.com/sneha-0723
