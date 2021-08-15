@@ -132,7 +132,11 @@ The user can search for the note with the help of the search bar. It is present 
       3)https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_password_val
 
   
-## AUTHOR
+## AUTHORS
 
 1) Mihika Sanghvi 
-2)https://github.com/sneha-0723
+2) Sneha Venkateswaran
+
+## GITHUB PROFILE
+1)  https://github.com/mihikasanghvi
+2)  https://github.com/sneha-0723
